@@ -1,0 +1,1 @@
+Ссылка на приложение, доступная из интернета: https://websiteofarchitects.vercel.app/
